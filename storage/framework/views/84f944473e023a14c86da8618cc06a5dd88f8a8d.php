@@ -3,7 +3,7 @@
 <?php $__env->startSection('body-class','product-page'); ?>
 
 <?php $__env->startSection('content'); ?>
-<div class="header header-filter" style="background-image: url('<?php echo e(asset('images/logonegro.png')); ?>');">
+<div class="header header-filter" style="background-image: url('<?php echo e(asset('images/logodiamat.png')); ?>');">
 </div>
 
 <div class="main main-raised">
