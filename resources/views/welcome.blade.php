@@ -96,11 +96,11 @@ Comentarios Facebook 1 d 2 -->
             <div class="row">
                 <div class="profile text-center">
                     <div class="avatar">
-                        <img src="../public/images/che.png" alt="Imagen de Floreria DIAMAT en linea" class="img img-responsive img-rounded">
+                        <img src="../public/images/pp.png" alt="Logo de Floreria DIAMAT en linea" class="img img-responsive img-rounded">
                     </div>
                 </div>
                 <div class="col-md-6">
-                    <h1 class="title">Bienvenido Floreria DIAMAT  de {{ config('app.name') }}.</h1>
+                    <h1 class="title">Bienvenido a Floreria DIAMAT </h1>
                     <h3 class="title">Realiza tus pedidos en linea, facil y rapido.</h3>
                     <br />
                      <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" class="btn btn-danger btn-raised btn-lg">
@@ -208,7 +208,7 @@ Comentarios Facebook 1 d 2 -->
 
 
 <!-- REGISTRO -->
- <!--    <div class="section landing-section">
+    <div class="section landing-section">
         <div class="row">
             <div class="col-md-8 col-md-offset-2">
                 <h2 class="text-center title">¿Aun no te registras?</h2>
@@ -238,7 +238,7 @@ Comentarios Facebook 1 d 2 -->
                 </form>
             </div>
         </div>
-    </div> -->
+    </div>
 
 
 <!-- Nuestro equipo -->
@@ -259,7 +259,7 @@ Comentarios Facebook 1 d 2 -->
                                     </blockquote>
                                     <div class="author">
                                         <div class="image">
-                                            <img src="img/daniel.jpg" alt="" />
+                                            <img src="img/des.jpg" alt="" />
                                         </div>
                                         <p class="credit">- <strong>Ing. Daniel Alejandro Bautista Martinez </strong> <span>Floreria DIAMAT.</span></p>
 
